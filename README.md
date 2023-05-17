@@ -15,5 +15,6 @@ We can create an ATM program for representing ATM transection. <br/> In the ATM 
 <br/>
 <br/>
 <br/>
+![Screenshot (171)](https://github.com/Akashpatil2002/OIBSIP-Task/assets/130535478/c884d35e-59a1-4e95-a617-07fce5835062)
 https://github.com/Akashpatil2002/OIBSIP-Task/assets/130535478/7e1e616a-3342-48e0-aef7-281b2c802e0b
 
